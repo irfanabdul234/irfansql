@@ -39,3 +39,6 @@ EXEC INSERTGMAILS
     @INSNUMBER = '1234567220', 
     @INSDEPID = 1, 
     @INSDOF = '2001-01-01'
+
+    helo irfam
+    
